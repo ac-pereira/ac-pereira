@@ -1,5 +1,10 @@
-## Hi there 👋
+Hello World ✌🏻
 
+- 💬 Portuguese and English
+- 👀 I’m interested in data analysis and data science
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on building data analysis algorithms and models
+- 📫 Reach me at aclara.p3@gmail.com
 <!--
 **ana-cpereira/ana-cpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
